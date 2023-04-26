@@ -1,0 +1,6 @@
+-- INSERT 5 DATA FIXTURES
+INSERT INTO TRAINER (trainer_id, trainer_name, email_id, phone_number, date_of_birth, address1, address2, city, state, pin_code) VALUES (1, 'trainer_name1', 'trainer1@gmail.com', '1234567890', '01-01-1990', 'address1', 'address2', 'noida', 'UP', '121000');
+INSERT INTO TRAINER (trainer_id, trainer_name, email_id, phone_number, date_of_birth, address1, address2, city, state, pin_code) VALUES (2, 'trainer_name2', 'trainer2@gmail.com', '1234567891', '01-01-1991', 'address2', 'address2', 'noida', 'UP', '121001');
+INSERT INTO TRAINER (trainer_id, trainer_name, email_id, phone_number, date_of_birth, address1, address2, city, state, pin_code) VALUES (3, 'trainer_name3', 'trainer3@gmail.com', '1234567892', '01-01-1992', 'address3', 'address2', 'noida', 'UP', '121002');
+INSERT INTO TRAINER (trainer_id, trainer_name, email_id, phone_number, date_of_birth, address1, address2, city, state, pin_code) VALUES (4, 'trainer_name4', 'trainer4@gmail.com', '1234567893', '01-01-1993', 'address4', 'address2', 'noida', 'UP', '121003');
+INSERT INTO TRAINER (trainer_id, trainer_name, email_id, phone_number, date_of_birth, address1, address2, city, state, pin_code) VALUES (5, 'trainer_name5', 'trainer5@gmail.com', '1234567894', '01-01-1994', 'address5', 'address2', 'noida', 'UP', '121004');

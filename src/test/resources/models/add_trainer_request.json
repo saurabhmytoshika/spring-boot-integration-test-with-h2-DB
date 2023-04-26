@@ -1,0 +1,13 @@
+{
+    "trainerName":"trainer_name",
+    "emailId":"abc@gmail.com",
+    "phoneNumber":"9876543211",
+    "dateOfBirth":"20-01-1992",
+    "address":{
+        "address1":"address1",
+        "address2":"address2",
+        "city":"city",
+        "state":"state",
+        "pinCode":"121003"
+    }
+}

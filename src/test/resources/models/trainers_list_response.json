@@ -1,0 +1,72 @@
+[
+        {
+            "trainerId": 1,
+            "trainerName": "trainer_name1",
+            "emailId": "trainer1@gmail.com",
+            "phoneNumber": "1234567890",
+            "dateOfBirth": "01-01-1990",
+            "address": {
+                "address1": "address1",
+                "address2": "address2",
+                "city": "noida",
+                "state": "UP",
+                "pinCode": "121000"
+            }
+        },
+        {
+            "trainerId": 2,
+            "trainerName": "trainer_name2",
+            "emailId": "trainer2@gmail.com",
+            "phoneNumber": "1234567891",
+            "dateOfBirth": "01-01-1991",
+            "address": {
+                "address1": "address2",
+                "address2": "address2",
+                "city": "noida",
+                "state": "UP",
+                "pinCode": "121001"
+            }
+        },
+        {
+            "trainerId": 3,
+            "trainerName": "trainer_name3",
+            "emailId": "trainer3@gmail.com",
+            "phoneNumber": "1234567892",
+            "dateOfBirth": "01-01-1992",
+            "address": {
+                "address1": "address3",
+                "address2": "address2",
+                "city": "noida",
+                "state": "UP",
+                "pinCode": "121002"
+            }
+        },
+        {
+            "trainerId": 4,
+            "trainerName": "trainer_name4",
+            "emailId": "trainer4@gmail.com",
+            "phoneNumber": "1234567893",
+            "dateOfBirth": "01-01-1993",
+            "address": {
+                "address1": "address4",
+                "address2": "address2",
+                "city": "noida",
+                "state": "UP",
+                "pinCode": "121003"
+            }
+        },
+        {
+            "trainerId": 5,
+            "trainerName": "trainer_name5",
+            "emailId": "trainer5@gmail.com",
+            "phoneNumber": "1234567894",
+            "dateOfBirth": "01-01-1994",
+            "address": {
+                "address1": "address5",
+                "address2": "address2",
+                "city": "noida",
+                "state": "UP",
+                "pinCode": "121004"
+            }
+        }
+]
